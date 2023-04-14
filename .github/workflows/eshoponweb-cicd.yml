@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: dd4a0aa3-ddd4-4262-85c4-f6077219685f
-  WEBAPP-NAME: az400-webapp-navin@kol
+  WEBAPP-NAME: az400-webapp-navinatkolwb
 
 
 jobs:
